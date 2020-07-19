@@ -13,15 +13,18 @@
   "keywords": [
     "react",
     "hook",
+    "hooks",
+    "react-hooks",
     "useState",
     "state",
     "update",
-    "partial"
+    "partial",
+    "typescript"
   ],
   "engines": {
     "node": ">=10"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "^16.13.1"
   },
   "devDependencies": {
