@@ -1,6 +1,6 @@
 {
   "name": "use-partial-state",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React's useState hook with easier partial updates",
   "main": "dist/index.js",
   "repository": "https://github.com/Zamaletdinov/use-partial-state.git",
